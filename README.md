@@ -17,3 +17,5 @@
 
 ### Лицензия
 Опишите условия лицензии
+
+<script src="https://localhostneuro.sdk.min.js"></script>
